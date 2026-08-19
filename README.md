@@ -10,12 +10,13 @@
 
 我在持续发布一套 AI 工具，分两条线：
 
-### 好事引力 · 品牌增长
+### 好事引力 · 产品与品牌增长
 
-让好产品被对的人看见。
+从决定做什么，到让好产品被对的人看见。
 
 | 工具 | 解决什么问题 |
 | --- | --- |
+| [Should I Build? · 五书会诊台](https://github.com/mengke-wang/should-i-build) | 用五本书判断产品或功能应该 BUILD、TEST、PARK 还是 KILL |
 | [小红书运营手册 · AI 工作台](https://github.com/mengke-wang/xiaohongshu-ai-workbench) | 主页、标题、选题、栏目、评论区和成交路径 |
 | [《把才华变成钱》Skill Pack](https://github.com/mengke-wang/talent-money-skills) | 把能力、证据、内容和服务整理成可被购买的第一版 |
 | [中文去 AI 味与文采增强](https://github.com/mengke-wang/zh-humanizer-literary) | 去掉模板感和营销腔，保留事实、判断和作者声音 |
